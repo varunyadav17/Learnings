@@ -6,3 +6,5 @@ Decorators in Depth - https://towardsdatascience.com/an-in-depth-tutorial-to-pyt
 ML Visually Explained - https://mlu-explain.github.io/random-forest/
 
 Deep RL Class by HuggingFace - https://github.com/huggingface/deep-rl-class
+
+Winning Kaggle Solutions - https://www.kaggle.com/code/sudalairajkumar/winning-solutions-of-kaggle-competitions/notebook
