@@ -8,3 +8,9 @@ ML Visually Explained - https://mlu-explain.github.io/random-forest/
 Deep RL Class by HuggingFace - https://github.com/huggingface/deep-rl-class
 
 Winning Kaggle Solutions - https://www.kaggle.com/code/sudalairajkumar/winning-solutions-of-kaggle-competitions/notebook
+
+LLM Prompt Guide - https://www.promptingguide.ai/
+
+Computer Vision Best Resources - https://chr043416.medium.com/best-resources-to-learn-computer-vision-311352ed0833
+
+LLAMA 2 Finetuning - https://www.philschmid.de/instruction-tune-llama-2
